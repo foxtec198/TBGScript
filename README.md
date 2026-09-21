@@ -23,7 +23,7 @@ Para inicializar é simples, basta primeiro instalar as dependencias, com `npm i
 
 Irá aparecer algo como:
 
-![Example 1](ex.png)
+![Example 1](images/ex.png)
 
 
 > Nessa tela voce pode selecionar os modulos, lembre-se que eles são pra testes, fique a vontade para criar seus modulos e testar novas possibilidades.
