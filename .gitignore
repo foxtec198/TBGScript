@@ -143,3 +143,12 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Outputs
+resultado/
+resultados/
+txts/
+*.csv
+*.txt
+*.xlsx
+*.xls
