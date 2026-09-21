@@ -3,7 +3,9 @@
   "type": "module",
   "dependencies": {
     "chalk": "^6.0.0",
+    "cli-progress": "^3.12.0",
     "dotenv": "^17.4.2",
+    "fetch-cookie": "^3.2.0",
     "figlet": "^1.11.4",
     "playwright": "^1.62.1"
   }

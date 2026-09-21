@@ -3,7 +3,7 @@ import fs from 'fs'
 // Configuração dos arquivos
 const arquivo1 = 'teste2.txt';
 const arquivo2 = 'teste.txt';
-const arquivoSaida = 'wordlist_misturada.txt';
+const arquivoSaida = 'shuffle.txt';
 
 function lerLinhas(arquivo) {
     try {
